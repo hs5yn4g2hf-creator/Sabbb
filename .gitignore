@@ -1,0 +1,7 @@
+# Derived intermediates, regenerated from your photo on every build.
+assets/source-cutout.png
+assets/source-prepped.png
+
+__pycache__/
+*.pyc
+.venv/
